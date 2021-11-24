@@ -12,3 +12,30 @@
     "inquirer": "^6.3.1"
   }
 }
+
+// {
+//   "name": "test_inquirer",
+//   "version": "1.0.0",
+//   "description": "testing inquirer npm package",
+//   "main": "index.js",
+//   "scripts": {
+//     "start": "node index.js",
+//     "test": "echo \"Error: no test specified\" && exit 1"
+//   },
+//   "author": "Caleb",
+//   "license": "ISC",
+//   "dependencies": {
+//     "inquirer": "^6.5.2",
+//     "path": "^0.12.7",
+//     "prompts": "^2.4.2"
+//   },
+//   "devDependencies": {},
+//   "repository": {
+//     "type": "git",
+//     "url": ""
+//   },
+//   "bugs": {
+//     "url": ""
+//   },
+//   "homepage": ""
+// }
