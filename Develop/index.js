@@ -38,7 +38,7 @@ const promptQuestions = () => {
     {
         type: 'input',
         name: 'description',
-        message: 'Enter a description for your project (required)',
+        message: 'Enter a description for your project: (required)',
         validate: descriptionInput => {
             if (descriptionInput) {
                 return true;
@@ -98,7 +98,7 @@ const promptQuestions = () => {
             if (githubInput) {
                 return true;
             } else {
-                console.log('Enter your GitHub username');
+                console.log('Enter your GitHub username:');
                 return false;
             }
         }
