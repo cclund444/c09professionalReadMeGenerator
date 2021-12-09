@@ -1,7 +1,7 @@
 # Professional README Generator 
 
 Purpose:
-
+Easy and accesable way to generate standard readme. Generic baseline, input functions for changes to each assignment or any project. 
 
 Built with:
 * javaScript
@@ -23,9 +23,8 @@ image:
 
 WalkThrough Video:
 
+
 Side Setup notes:
-
-
 
 [How to create a Professional README](./readme-guide.md)
 
