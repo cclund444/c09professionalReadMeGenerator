@@ -23,7 +23,7 @@ image:
 <img src="2.jpg"/>
 
 WalkThrough Video:
-
+<img src="c09demoVideo.mp4"/>
 
 Side Setup notes:
 

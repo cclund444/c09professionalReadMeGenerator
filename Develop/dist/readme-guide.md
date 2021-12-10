@@ -1,8 +1,8 @@
 
-  # djhs
+  # BootCampBlues
   
   ## Description
-  sdl
+  This is a place where past and current bootcamp members can colaberate on desired topics. Helps engage extra learning.
   ## Licenses
   [![()](#)
   ## Table of Contents
@@ -15,16 +15,16 @@
   * [GitHub](#github)
   * [Contact Information](#contact)
   ## Installation steps
-  sjdh
+  This project has many. There is a page stup where members can click on desired interests and leave comments.
   ## Instructions
-  lshd
+  They are pretty self explanatory when you go to the webpage
   ## Contributing Members
-  sjdh
+  Myself, Nico, Kristine and Jaron
   ## Contribution Requirements
-  shdl
+  I helped with a lot of the front end asspects, created the repo and some back end questions
   ## Tests
-  run
+  npm run test
   ## GitHub
-  https://github.com/d
+  https://github.com/cclund444
   ## Contact Information
-  sd
+  calebcoylund444@gmail.com
