@@ -4,7 +4,7 @@ const generateMarkdown = require('./utils/generateMarkdown');
 
 const writeFile = fileContent => {
     return new Promise ((resolve, reject) => {
-        fs.writeFile('./dist/readme.md', generateMarkdown(fileContent), err => {
+        fs.writeFile('./dist/readme-guide.md', generateMarkdown(fileContent), err => {
             if (err) {
                 reject(err);
                 return;
